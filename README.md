@@ -1,0 +1,1 @@
+# for_rinaszeg1.2
