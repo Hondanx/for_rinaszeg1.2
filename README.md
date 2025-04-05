@@ -1,5 +1,7 @@
 # for_rinaszeg1.2
 
+https://github.com/Hondanx/for_rinaszeg1.2.git
+
 ==============================================
    Enhanced NAT Translator - README
 ==============================================
